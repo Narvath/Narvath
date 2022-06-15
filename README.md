@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @Narvath
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning c# and ASP.NET core
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Narvath@pm.me
-
-<!---
-Narvath/Narvath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in challenges... Great everything is when you are new
+- 🌱 I’m currently learning c#, ASP.NET core, Mediatr and AutoMapper (web api)
+- 💞️ I’m looking to collaborate on a web app tracking a stock portfolio in the form of a heatmap
+- 📫 How to reach me -> Narvath@pm.me
