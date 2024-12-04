@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Narvath
 - 👀 I’m interested in challenges... Great everything is when you are new
-- 🌱 I’m currently learning c#, ASP.NET core, Mediatr and AutoMapper (web api)
+- 🌱 I’m currently learning FreeRTOS
 - 💞️ I’m looking to collaborate on a web app tracking a stock portfolio in the form of a heatmap
 - 📫 How to reach me -> Tristan.Be@protonmail.com
